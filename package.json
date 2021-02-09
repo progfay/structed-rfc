@@ -1,0 +1,25 @@
+{
+  "name": "structed-rfc",
+  "version": "1.0.0",
+  "description": "Playground for parsing RFC",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progfay/structed-rfc.git"
+  },
+  "keywords": [
+    "rfc"
+  ],
+  "author": "progfay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/progfay/structed-rfc/issues"
+  },
+  "homepage": "https://github.com/progfay/structed-rfc#readme",
+  "dependencies": {
+    "node-html-parser": "^2.1.0"
+  }
+}
